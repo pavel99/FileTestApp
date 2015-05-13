@@ -1,0 +1,9 @@
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\bin\Debug\FileTestApp.exe.config
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\bin\Debug\FileTestApp.exe
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\bin\Debug\FileTestApp.pdb
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\obj\Debug\FileTestApp.csprojResolveAssemblyReference.cache
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\obj\Debug\FileTestApp.Form1.resources
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\obj\Debug\FileTestApp.Properties.Resources.resources
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\obj\Debug\FileTestApp.csproj.GenerateResource.Cache
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\obj\Debug\FileTestApp.exe
+E:\Pavel\29.05.15\FileTestApp\FileTestApp\obj\Debug\FileTestApp.pdb
